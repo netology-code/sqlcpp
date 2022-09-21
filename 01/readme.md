@@ -55,7 +55,7 @@ sudo apt update && sudo apt install pgadmin4
 
 ### Mac OS X
 
-[Видео-инструкция](https://kinescope.io/200639959)
+[Видео-инструкция](https://kinescope.io/80f47a42-67a5-4e6e-9dbf-a4cc1ad1e799)
 
 Команды для установки:
 
