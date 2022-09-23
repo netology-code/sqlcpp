@@ -32,7 +32,7 @@
 
 <details>
 
-<summary>Подсказка</summary>
+<summary>Посмотреть методы</summary>
 
 * Для создания таблиц используйте метод `transaction_base::exec`, а в аргументах передавайте SQL запрос с "CREATE TABLE"
 * Для добавления телефона и клиента используйте метод `transaction_base::exec`, а в аргументах передавайте SQL запрос с "INSERT"
