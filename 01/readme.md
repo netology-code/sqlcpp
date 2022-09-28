@@ -65,7 +65,9 @@ sudo apt update && sudo apt install pgadmin4
 
 </details>
 
-### Mac OS X
+<details>
+
+<summary>Mac OS X</summary>
 
 [Видео-инструкция](https://kinescope.io/80f47a42-67a5-4e6e-9dbf-a4cc1ad1e799)
 
@@ -80,6 +82,8 @@ pg_ctl -D /usr/local/var/postgres start
 
 createuser -P -s postgres
 ```
+  
+</details>
 
 ------
 
