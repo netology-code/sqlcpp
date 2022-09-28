@@ -35,16 +35,19 @@
 
 Необходимо установить PostgreSQL на свой ПК.
 
-### Windows
+<details>
+
+<summary>Windows</summary>
 
 [Видео-инструкция](https://embed.new.video/uyjUq9B3qYo6BbbkzG71Ny)
 
 [Ссылка на PostgreSQL для Windows](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
+</details>
+
 <details>
 
 <summary>Linux (на примере Ubuntu 20.04)</summary>
-  
 
 [Видео-инструкция](https://embed.new.video/cRQW4Z2YnxZUxzKRLWwnPF)
 
