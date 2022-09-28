@@ -41,6 +41,26 @@
 
 [Ссылка на PostgreSQL для Windows](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
+<details>
+
+<summary>### Linux (на примере Ubuntu 20.04)</summary>
+
+[Видео-инструкция](https://embed.new.video/cRQW4Z2YnxZUxzKRLWwnPF)
+
+Команды для установки:
+
+```bash
+# PostgreSQL
+sudo apt update && sudo apt install postgresql-12
+
+# pgAdmin4
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" |sudo tee  /etc/apt/sources.list.d/pgdg.list
+sudo apt update && sudo apt install pgadmin4
+```
+
+</details>
+
 ### Linux (на примере Ubuntu 20.04)
 
 [Видео-инструкция](https://embed.new.video/cRQW4Z2YnxZUxzKRLWwnPF)
